@@ -32,13 +32,13 @@
 - 다른 사람 목표 구경하기
 
 ### 협업툴
-- [피그마](https://www.figma.com/file/vtqSI86ZnFanYD9L8OdvF9/%EC%98%A8%EB%9D%BC%EC%9D%B8-%EB%8F%85%EC%84%9C-%EB%AA%A8%EC%9E%84?node-id=0%3A1)
-- [노션](https://breezy-freckle-2c2.notion.site/9f0ea953cea84295a6a9848951def8d8)
+- [피그마](https://www.figma.com/file/vtqSI86ZnFanYD9L8OdvF9/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=105%3A2&t=sLdkWUzxPDHDmRm7-1)
+- [노션](https://breezy-freckle-2c2.notion.site/REGO-9f0ea953cea84295a6a9848951def8d8)
 
 ## 💙Commit Convention 💙
 [Feat] 새로운 기능 추가 \
 [Mod] 코드 수정 \
-[Fix] 버그 해결 \
+[Fix/Bug] 버그 해결 \
 [Design] UI 디자인 변경 (css 등) \
 [Style] 코드 수정 없음 (코드 형식, 세미콜론 추가 등) \
 [Chore] 빌드 업무, 패키지 매니징, gitignore \
